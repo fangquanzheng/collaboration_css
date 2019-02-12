@@ -2,6 +2,7 @@
   background-color: lightblue;
   color: white;
   padding:20px;
+  text-align: center;
   font-family: Arial, Verdana, sans-serif;
 }
 
@@ -10,7 +11,7 @@ table{
   border-width: 3px;
   border-color: forestgreen;
   text-align: center;
-  margin-left: 50%;
+  margin-left: 20%;
 }
 
 th{

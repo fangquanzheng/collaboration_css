@@ -1,0 +1,25 @@
+body{
+  background-color: lightblue;
+  color: white;
+  padding:20px;
+  text-align: center;
+  font-family: Arial, Verdana, sans-serif;
+}
+
+table{
+  border-style: inset;
+  border-width: 3px;
+  border-color: forestgreen;
+  text-align: center;
+  margin-left: 22%;
+}
+
+th{
+  border-bottom: 1px solid #0abd72;
+  border-right: 1px solid #0abd72;
+}
+td{
+  border-bottom: 1px solid #0abd72;
+  border-right: 1px solid #0abd72;
+  text-align: center;
+}
